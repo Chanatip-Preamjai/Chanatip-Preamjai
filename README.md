@@ -1,4 +1,3 @@
-jitnupong-b/README.md
 👋 Hi, I’m @Chanatip Preamjai
 👀I am interested in database management and web development..
 🌱 I’m currently learning Data miming.
