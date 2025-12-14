@@ -1,4 +1,4 @@
-👋 Hi, I’m @Chanatip Preamjai
+👋 Hi, I’m @Chanatip-Preamjai
 
 
 👀I am interested in database management and web development..
