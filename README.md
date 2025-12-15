@@ -10,4 +10,4 @@
 💞️ I’m looking to collaborate on someone...
 
 
-📫 How to reach me @Chanatip.prem.
+📫 How to reach me @Chanatip.prem@ku.th
