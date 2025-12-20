@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/https://github.com/Chanatip-Preamjai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/Chanatip-Preamjai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/http://linkedin.com/in/ชนาธิป-เปรมใจ-ab8533284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/ชนาธิป-เปรมใจ-ab8533284" height="30" width="40" /></a>
+<a href=https://www.linkedin.com/in/%E0%B8%8A%E0%B8%99%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%9B-%E0%B9%80%E0%B8%9B%E0%B8%A3%E0%B8%A1%E0%B9%83%E0%B8%88-ab8533284?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/ชนาธิป-เปรมใจ-ab8533284" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
